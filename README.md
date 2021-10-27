@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c0mpIex
-- 👀 I’m interested in bulding games
+- 👀 I’m interested in building games
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me by my email: ammarxalmajed@gmail.com
